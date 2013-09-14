@@ -2,7 +2,7 @@ Matlab
 ======
 
 
-Cette fonction permet de calculer la solution par approximation numérique du problème -DELTA(U(x,y)) = f(x,y), où 'DELTA' désigne l'opérateur Laplacien et f(x,y)=-2cos(x)cos(y), dans deux cas : 
+Ce projet effectué sous Matlab permet de calculer la solution par approximation numérique du problème -DELTA(U(x,y)) = f(x,y), où 'DELTA' désigne l'opérateur Laplacien et f(x,y)=-2cos(x)cos(y), dans deux cas : 
 
 - le cas de Neuman homogène : dérivee de la vitesse U nulle à la frontière (étape 4).
 - le cas de Dirichlet : condition aux limites sur la vitesse U sur les frontières du domaine (étape 5).
